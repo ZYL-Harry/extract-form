@@ -1,6 +1,6 @@
 # extract-form
 ## Introduction
-        In this project, I use Python to extract the information in the form from an image file.<br>
+        In this project, I use Python to extract the information in the form from an image file.
         My method is divided into following steps:<br>
         1. Open an image file<br>
         2. Convert the image to grayscale<br>
