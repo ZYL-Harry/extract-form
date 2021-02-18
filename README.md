@@ -14,4 +14,4 @@
         3. pytesseract
         4. xlwt
 ## Requirement
-        I'm new to Python programming. I hope that you can point out the wrong thing in my code or my method and help me to achieve the function. Thank you!
+        I'm new to Python programming. I hope that you can point out the wrong things in my code or my method and help me to achieve the function. Thank you!
